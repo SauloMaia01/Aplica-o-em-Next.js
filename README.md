@@ -1,1 +1,1 @@
-# Aplica-o-em-Next.js
+# Aplicao-em-Next.js
